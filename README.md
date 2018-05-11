@@ -1,3 +1,4 @@
+https://blog.csdn.net/awai54st/article/details/78177351
 ## PROJECT NAME: 
 PYNQ Classification - Python on Zynq FPGA for Convolutional Neural Networks (Alpha Release)
 
